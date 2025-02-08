@@ -4,8 +4,8 @@ main-para {
 }
 
 #active {
-    background-color: white;
-    color: steelblue;
+    background-color: steelblue;
+    color: white;
 }
 img {
     width: 80%;
@@ -19,6 +19,7 @@ a {
 
 h1 {
     text-align: center;
+    margin: 50px 0;
 }
 nav, footer {
     text-align: center;
@@ -39,8 +40,20 @@ nav, footer {
  footer p {
     font-size: 20px;
     margin: 20px auto;
+    padding: 25px;
  }
  a:hover {
     background-color: white;
     color: steelblue;
+ }
+ nav {
+    background-color: steelblue;
+    padding: 25px;
+ }
+ a {
+    color: white;
+    padding: 25px;
+ }
+ img {
+    border: 4px solid steelblue;
  }

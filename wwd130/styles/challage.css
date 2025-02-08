@@ -1,0 +1,49 @@
+::backdrop {
+    background-color: black;
+}
+#title {
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+p {
+    margin: 0 auto;
+    width: 150px;
+    color: black;
+}
+h3{
+    margin: auto 0;
+    text-align: center;
+    color: white;
+}
+#church {
+    color: black;
+    text-align: center;
+    margin-top: auto;
+}
+#prohphet {
+    width: 150px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h2 {
+    width: 250px;
+    margin: 0 auto;
+    color: white;
+}
+#msg {
+    width: 300px;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+#contant {
+    margin: 0 auto;
+}
+body {
+    background-color: lightblue;
+}
