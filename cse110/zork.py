@@ -215,7 +215,6 @@ def main():
                 print('You sit still dumbfounded trying to figure out how you got in the cabin and hoping to')
                 print('yourself that the noise is just a rat. You feel you should try the door or at least')
                 print('face your fear and shine the light at the noise.')
-                
 
     #Just need claw ending and test everything
     elif first_choice.lower() == 'pipe':
